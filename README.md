@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hemantsr02.github.io/My_Portfolio/](https://hemantsr02.github.io/My_Portfolio/)
 
-- 💬 Ask me about **Cpp,DBMS,OOPs**
+- 💬 Ask me about **Cpp,DSA,DBMS,OOPs,Python,Django**
 
 - 📫 How to reach me **hemant.devda02@gmail.com**
 
