@@ -7,7 +7,9 @@
   
 - Counter App using React [https://hemantsr02.github.io/counter-app/](https://hemantsr02.github.io/counter-app/)
 
-- 💬 Ask me about **Cpp,DSA,DBMS,OOPs,Python,Django**
+- Background-Changer App [https://hemantsr02.github.io/Bg-Changer](https://hemantsr02.github.io/Bg-Changer)
+
+- 💬 Ask me about **CPP,DSA,DBMS,OOPs,Python,Django,React,Nodejs,Express,MongoDB**
 
 - 📫 How to reach me **hemant.devda02@gmail.com**
 
